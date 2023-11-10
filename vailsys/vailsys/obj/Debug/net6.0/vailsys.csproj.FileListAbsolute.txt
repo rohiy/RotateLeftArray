@@ -1,0 +1,15 @@
+C:\Users\roh87050\source\repos\vailsys\vailsys\bin\Debug\net6.0\vailsys.exe
+C:\Users\roh87050\source\repos\vailsys\vailsys\bin\Debug\net6.0\vailsys.deps.json
+C:\Users\roh87050\source\repos\vailsys\vailsys\bin\Debug\net6.0\vailsys.runtimeconfig.json
+C:\Users\roh87050\source\repos\vailsys\vailsys\bin\Debug\net6.0\vailsys.dll
+C:\Users\roh87050\source\repos\vailsys\vailsys\bin\Debug\net6.0\vailsys.pdb
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.csproj.AssemblyReference.cache
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.AssemblyInfoInputs.cache
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.AssemblyInfo.cs
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.csproj.CoreCompileInputs.cache
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.dll
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\refint\vailsys.dll
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.pdb
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\vailsys.genruntimeconfig.cache
+C:\Users\roh87050\source\repos\vailsys\vailsys\obj\Debug\net6.0\ref\vailsys.dll
